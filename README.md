@@ -1,6 +1,8 @@
 <div align="center">
   <br />
-    <img src="public/readme/hero.png" alt="Project Banner">
+    <a href="https://bobgabule.github.io/react-movies/" target="_blank">
+      <img src="public/readme/hero.png" alt="Project Banner">
+    </a>  
   <br />
   
   <div>
